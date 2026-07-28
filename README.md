@@ -119,7 +119,7 @@ Engineering_Guide_v1.0.pdf
 README.md
 
 images/
-    banner.png
+    repository_banner_v1.0.png
     experimental_test_platform_overview.jpeg
     experimental_data_collection.png
     python_temperature_acquisition_software.png
