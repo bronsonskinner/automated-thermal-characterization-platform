@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="images/banner.png" alt="Automated Raspberry Pi Thermal Characterization Platform" width="100%">
+  <img src="images/repository_banner_v1.0.png"
+       alt="Automated Raspberry Pi Thermal Characterization Platform"
+       width="100%">
 </p>
-
 # Automated Raspberry Pi Thermal Characterization Platform
 
 ### Designed, Built, and Documented by Bronson Skinner
