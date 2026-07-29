@@ -43,27 +43,45 @@ The guide was written so another engineer can understand, evaluate, reproduce, a
 
 ## Demonstration Videos
 
-The repository includes demonstration videos documenting the operation and validation of the platform.
+The repository includes demonstration videos documenting the operation and validation of the automated thermal characterization platform.
 
-### Automated Temperature Data Acquisition
+### ▶️ Automated Temperature Data Acquisition
 
-Demonstrates automated multi-sensor temperature acquisition using Python.
+[Watch Video](videos/automated_temperature_data_acquisition_v1.mp4)
 
-### Live Sensor Response Demonstration
+Demonstrates automated multi-sensor temperature acquisition using Python
 
-Shows real-time temperature response during experimentation.
+---
 
-### Portrait Heatsink Experimental Setup
+### ▶️ Live Sensor Response Demonstration
 
-Demonstrates the complete experimental platform during testing.
+[Watch Video](videos/live_sensor_response_demonstration_v1.mp4)
 
-### Portrait Heatsink Sensor Placement
+Shows real-time temperature response during experimentation
 
-Demonstrates sensor placement for portrait-oriented heatsink testing.
+---
 
-### Landscape Heatsink Sensor Placement
+### ▶️ Portrait Heatsink Experimental Setup
 
-Demonstrates sensor placement for landscape-oriented heatsink testing.
+[Watch Video](videos/portrait_heatsink_experimental_setup_v1.mp4)
+
+Demonstrates the complete portrait-oriented experimental test platform
+
+---
+
+### ▶️ Portrait Heatsink Sensor Placement
+
+[Watch Video](videos/portrait_heatsink_sensor_placement_v1.mp4)
+
+Illustrates sensor placement methodology for portrait-oriented heatsink testing
+
+---
+
+### ▶️ Landscape Heatsink Sensor Placement
+
+[Watch Video](videos/landscape_heatsink_sensor_placement_v1.mp4)
+
+Illustrates sensor placement methodology for landscape-oriented heatsink testing
 
 ---
 
