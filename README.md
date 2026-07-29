@@ -47,7 +47,7 @@ The repository includes demonstration videos documenting the operation and valid
 
 ### ▶️ Automated Temperature Data Acquisition
 
-[Watch Video](videos/automated_temperature_data_acquisition_v1.mp4)
+[Watch Video](videos/automated_temperature_data_acquisition.mp4)
 
 Demonstrates automated multi-sensor temperature acquisition using Python
 
@@ -55,7 +55,7 @@ Demonstrates automated multi-sensor temperature acquisition using Python
 
 ### ▶️ Live Sensor Response Demonstration
 
-[Watch Video](videos/live_sensor_response_demonstration_v1.mp4)
+[Watch Video](videos/live_sensor_response_demonstration.mp4)
 
 Shows real-time temperature response during experimentation
 
